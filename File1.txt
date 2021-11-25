@@ -1,2 +1,6 @@
 hola
+<<<<<<< HEAD
 hola developer 1
+=======
+hola developer 2
+>>>>>>> teamWork/new_feature
